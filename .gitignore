@@ -1,8 +1,4 @@
-.DS_Store
-a
-a1
-a2
-a3
+
 a4
 b4
 .idea
@@ -14,3 +10,8 @@ branch b
 b2
 
 b3
+.DS_Store
+a
+a1
+a2
+a3
